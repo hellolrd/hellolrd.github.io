@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hello</title>
   
-  <subtitle>Hello</subtitle>
+  <subtitle>张金泽是狗</subtitle>
   <link href="https://hellolrd.github.io/atom.xml" rel="self"/>
   
   <link href="https://hellolrd.github.io/"/>
-  <updated>1985-10-26T08:15:00.000Z</updated>
+  <updated>2023-01-18T05:24:11.616Z</updated>
   <id>https://hellolrd.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>haha</title>
+    <link href="https://hellolrd.github.io/2023/01/18/haha/"/>
+    <id>https://hellolrd.github.io/2023/01/18/haha/</id>
+    <published>2023-01-18T05:24:11.000Z</published>
+    <updated>2023-01-18T05:24:11.616Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
